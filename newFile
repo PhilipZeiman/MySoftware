@@ -1,2 +1,2 @@
-Def click
-print (click)
+Def click:
+    print ("click")
